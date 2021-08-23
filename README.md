@@ -3,6 +3,7 @@
 Eu sou Matheus Castro, 
 
 Esse é meu canto da alegria onde possa pintar/codificar algumas ideias pra passar tempo, criar algo novo e aprender algumas coisas.
+> Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda! `--Mario Sergio Cortella`
 
 ## ❤️ Meu valores
 * Sempre disposto a aprender
@@ -24,10 +25,6 @@ Esse é meu canto da alegria onde possa pintar/codificar algumas ideias pra pass
  - Ainda esse ano começo meu blog. 😱
  - De vez em quando to no [Linkedin](https://www.linkedin.com/in/matheushcastro/)
  - Sempre de olho no e-mail: <a href="mailto:matheus.hcastro@live.com?">matheus.hcastro@live.com</a>
-
-
-> Note: `--Mario Sergio Cortella` 
-> Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!
 
 
 ## 💻 Projetos legais e alguns testes de conhecimento!!!
