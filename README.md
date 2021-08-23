@@ -9,7 +9,7 @@ Esse é meu canto da alegria onde possa pintar/codificar algumas ideias pra pass
 * Sempre disposto a ensinar
 * Tecnologia é para facilitar nosso dia a dia
 * Pessoas são mais importante que qualquer outra coisa
-* 
+
 
 ## 💻 Tecnologias e um breve resumo
  - Profissional de TI com 6 anos de experiência.
