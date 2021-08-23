@@ -26,9 +26,8 @@ Esse é meu canto da alegria onde possa pintar/codificar algumas ideias pra pass
  - Sempre de olho no e-mail: <a href="mailto:matheus.hcastro@live.com?">matheus.hcastro@live.com</a>
 
 
-
-> Note: `--Mario Sergio Cortella` Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!
-
+> Note: `--Mario Sergio Cortella` 
+> Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!
 
 
 ## 💻 Projetos legais e alguns testes de conhecimento!!!
