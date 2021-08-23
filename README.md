@@ -19,4 +19,4 @@ Esse é meu canto da alegria onde possa pintar/codificar algumas ideias pra pass
 ## 📨 Contatos
  - Ainda esse ano começo meu blog. 😱
  - De vez em quando to no [Linkedin](https://www.linkedin.com/in/matheushcastro/)
- - Sempre de olho no e-mail: <a href="mailto:matheus.hcastro@live.com?"></a>
+ - Sempre de olho no e-mail: <a href="mailto:matheus.hcastro@live.com?">matheus.hcastro@live.com</a>
