@@ -13,7 +13,7 @@ Esse é meu canto da alegria onde possa pintar/codificar algumas ideias pra pass
 
 ## 💻 Tecnologias e um breve resumo
  - Profissional de TI com 6 anos de experiência. (atuando com C#, php, nodeJS, reactJS, reactNative e genexus)  
- - Trabalhei com 
+ - Trabalhei como:
    - Desenvolvedor Web, Desenvolvedor Desktop. 
    - Liderança de times, 
    - Product owner, 
@@ -26,7 +26,9 @@ Esse é meu canto da alegria onde possa pintar/codificar algumas ideias pra pass
  - Sempre de olho no e-mail: <a href="mailto:matheus.hcastro@live.com?">matheus.hcastro@live.com</a>
 
 
+
 > Note: `--Mario Sergio Cortella` Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda!
+
 
 
 ## 💻 Projetos legais e alguns testes de conhecimento!!!
