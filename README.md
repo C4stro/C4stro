@@ -1,31 +1,31 @@
-# Alô, alô você! ッ
+# Hello, hello you!ッ
 
-Eu sou Matheus Castro, 
+I am Matheus Castro,
 
-Esse é meu canto da alegria onde possa pintar/codificar algumas ideias pra passar tempo, criar algo novo e aprender algumas coisas.
-> Faça o teu melhor, na condição que você tem, enquanto você não tem condições melhores, para fazer melhor ainda! `--Mario Sergio Cortella`
+This is my corner of joy where you can paint / code some ideas to spend time, create something new and learn some things.
+> Do your best, in the condition you have, while you don't have the best conditions, to do the best yet! `--Mario Sergio Cortella`
 
-## ❤️ Meu valores
-* Sempre disposto a aprender
-* Sempre disposto a ensinar
-* Tecnologia é para facilitar nosso dia a dia
-* Pessoas são mais importante que qualquer outra coisa
-
-
-## 💻 Tecnologias e um breve resumo
- - Profissional de TI com 6 anos de experiência. (atuando com C#, php, nodeJS, reactJS, reactNative e genexus)  
- - Trabalhei como:
-   - Desenvolvedor Web, Desenvolvedor Desktop. 
-   - Liderança de times, 
-   - Product owner, 
-   - Scrum master.
+## ❤️ My values
+* Always willing to learn
+* Always willing to use
+* Technology is to facilitate our daily lives
+* People are more important than anything else
 
 
-## 📨 Contatos
- - Ainda esse ano começo meu blog[2021]. 😱
- - De vez em quando to no [Linkedin](https://www.linkedin.com/in/matheushcastro/)
- - Sempre de olho no e-mail: <a href="mailto:matheus.hcastro@live.com?">matheus.hcastro@live.com</a>
+## 💻 Technologies and a brief summary
+ - IT professional with 6 years of experience. (acting with C#, php, nodeJS, reactJS, reactNative and genexus)
+ - I worked as:
+   - Web Developer, Desktop Developer.
+   - Leadership of times,
+   - Owner of the product,
+   - Scrum Master.
 
 
-## 💻 Projetos legais e alguns testes de conhecimento!!!
- - [ListaFutura] :)
+## 📨 Contacts
+ - This year I start my blog [2021]. 😱
+ - From time to time not to [Linkedin] (https://www.linkedin.com/in/matheushcastro/)
+ - Always keep an eye on the email: <a href="mailto:matheus.hcastro@live.com?"> matheus.hcastro@live.com </a>
+
+
+## 💻 Cool projects and some knowledge tests !!!
+ - [FutureList] :)
